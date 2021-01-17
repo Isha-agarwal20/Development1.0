@@ -7,7 +7,7 @@ import FoodItemList from "./FoodItemList";
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
-    <FoodItemList />
+    <Form />
   </React.StrictMode>,
   rootElement
 );
