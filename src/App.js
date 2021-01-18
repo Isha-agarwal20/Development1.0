@@ -95,7 +95,6 @@ const App = () => {
         <Button
           variant="outlined"
           style={{color: "white", backgroundColor:"red"}}
-          type="submit"
           onClick={() => {
             validateSubmit()
           }}
