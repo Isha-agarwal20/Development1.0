@@ -1,22 +1,31 @@
 .form {
-  background-color: #d9ffb3;
-}
-.button-button {
-  background-color: #99e6ff;
-}
-.submit-button {
-  background-color: #ff99bb;
-}
-.reg-button {
-  background-color: #ffff1a;
-}
-.image {
-  width: 128;
-  height: 128;
-}
-.img {
-  margin: "auto";
-  display: "block";
-  maxwidth: "100%";
-  maxheight: "100%";
-}
+    background-image: url("../images/background4.jpg");
+    text-align: center;  
+
+  }
+  .buttons{
+    text-align:center;
+    font:white;
+    background-color: tomato;
+  }
+  .font-color{
+    color: white;
+  }
+  .textfield{
+     background: transparent; 
+    border-color: yellow;
+  }
+  .button-color{
+    background-color: black;
+  }
+  .image {
+    width: 128;
+    height: 128;
+  }
+  .img {
+    margin: "auto";
+    display: "block";
+    maxwidth: "100%";
+    maxheight: "100%";
+  }
+  
